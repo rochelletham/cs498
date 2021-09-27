@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "InfiniteMatrix",
+			"Path": "/Users/rochelle/cs498/InfiniteMatrixStarter 4.26/Source/InfiniteMatrix.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "InfiniteMatrixEditor",
+			"Path": "/Users/rochelle/cs498/InfiniteMatrixStarter 4.26/Source/InfiniteMatrixEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
